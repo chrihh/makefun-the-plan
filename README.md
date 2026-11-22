@@ -1,6 +1,10 @@
 # The $100 Plan: Roofers' Demo Bot
 
-An entry for the make.fun bounty "The plan make.fun will carry out in public".
+[![make.fun · the-plan-make-fun-will-carry-20261122-2138](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/chrihh/makefun-the-plan/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/chrihh/makefun-the-plan/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+
+An entry for the make.fun bounty [The plan make.fun will carry out in public](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138).
 
 ## What the program does
 
